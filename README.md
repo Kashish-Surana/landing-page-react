@@ -38,6 +38,7 @@ npm start
 
 ## 📸 Screenshots
 
+![image alt](https://github.com/Kashish-Surana/landing-page-react/blob/208ff77cff183566e91aaae2980e97c76f1d1321/ss2.png)
 ![image alt](https://github.com/Kashish-Surana/landing-page-react/blob/4e2d0c47661d481eddcfca1a0f1dd234ad6b2716/ss1.png)
 
 ---
